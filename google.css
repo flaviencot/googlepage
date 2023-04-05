@@ -48,7 +48,8 @@ button {
     display: flex;
     justify-content: center;
     font-family: sans-serif;
-    margin-bottom: 150px
+    margin-bottom: 150px;
+    color: #ADADAD;
 }
 
 .Country {
@@ -71,6 +72,7 @@ button {
     align-items:center ;
     justify-content: space-between;
     width: 100%;
+    text-decoration: none;
 
 }
 
@@ -78,5 +80,9 @@ button {
 display: flex;
 padding-left: 10px
 color:white;
-text-decoration: none;
+text-decoration : none;
 }
+
+.deco{text-decoration: none;
+color:#ADADAD;}
+
