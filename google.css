@@ -86,3 +86,7 @@ text-decoration : none;
 .deco{text-decoration: none;
 color:#ADADAD;}
 
+.deco:hover
+{
+  text-decoration: underline;
+}
